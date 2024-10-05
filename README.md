@@ -5,3 +5,5 @@ This is just a simple Overleaf LaTex editor inspired light theme. I was about to
 **Anyway. I hope you enjoy it!**
 
 PS: Feel free to fork and create a dark mode if you want to.
+
+(Shameless personal blog promotion XD: [My Personal Research Blog](https://ariqahmer.github.io/))
