@@ -1,0 +1,21 @@
+{
+  "name": "overleaf-theme",
+  "displayName": "Overleaf Theme",
+  "description": "A simple light theme inspired by Overleaf LaTex editor platform",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Overleaf Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Overleaf Theme-color-theme.json"
+      }
+    ]
+  }
+}
